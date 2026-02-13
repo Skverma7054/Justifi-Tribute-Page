@@ -7,7 +7,7 @@ import { CTASection } from '@/sections/CTASection';
 
 function App() {
   return (
-    <main className="bg-[#f8f5f2]">
+    <main className="bg-[#f6c176]">
       <HeroSection />
       <RestorationSection />
       <DefianceSection />
